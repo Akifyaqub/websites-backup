@@ -1,0 +1,13 @@
+{
+  "total": 500000,
+  "chunks": 50,
+  "per_chunk": 10000,
+  "first_downloads": 1228225,
+  "last_downloads": 20,
+  "year_range": [
+    1990,
+    2026
+  ],
+  "source": "movies200k.json (2,000,000)",
+  "note": "Top 500,000 by downloads, 1990-2026, excluding ids already in the live site catalog and the 2 broken ids."
+}
