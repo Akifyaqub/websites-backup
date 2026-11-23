@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akifyaqub.github.io/ai-tools/sitemap.xml
