@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akifyaqub.github.io/free-movies/sitemap.xml
